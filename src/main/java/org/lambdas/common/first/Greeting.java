@@ -1,4 +1,4 @@
-package org.test.lambdas.first;
+package org.lambdas.common.first;
 
 /**
  * Created by svshinde83 on 22/01/2017.

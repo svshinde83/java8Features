@@ -1,4 +1,4 @@
-package org.test.lambdas.second;
+package org.lambdas.common.second;
 
 import java.util.function.BiConsumer;
 

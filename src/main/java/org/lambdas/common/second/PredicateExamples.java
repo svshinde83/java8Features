@@ -1,4 +1,4 @@
-package org.test.lambdas.second;
+package org.lambdas.common.second;
 
 import org.test.lambdas.common.Person;
 

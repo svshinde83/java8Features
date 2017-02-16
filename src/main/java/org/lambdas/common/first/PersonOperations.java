@@ -1,10 +1,8 @@
-package org.test.lambdas.first;
+package org.lambdas.common.first;
 
 import org.test.lambdas.common.Person;
 
 import java.util.*;
-import java.util.function.Predicate;
-import java.util.stream.Collectors;
 
 /**
  * Created by svshinde83 on 23/01/2017.
