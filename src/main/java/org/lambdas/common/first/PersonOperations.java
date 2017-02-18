@@ -1,6 +1,6 @@
 package org.lambdas.common.first;
 
-import org.test.lambdas.common.Person;
+import org.lambdas.common.Person;
 
 import java.util.*;
 
