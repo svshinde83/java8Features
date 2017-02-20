@@ -9,7 +9,7 @@ public class ClosuresSample {
         int a = 10;
         int b = 20;
 
-        doProcess(a, iThArgument -> System.out.println(iThArgument + b));
+        doProcess(a, c -> System.out.println(c + b));
     }
 
     public static void doProcess(int i, Process p) {
