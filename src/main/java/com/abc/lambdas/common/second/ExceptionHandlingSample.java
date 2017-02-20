@@ -1,4 +1,4 @@
-package org.lambdas.common.second;
+package com.abc.lambdas.common.second;
 
 import java.util.function.BiConsumer;
 

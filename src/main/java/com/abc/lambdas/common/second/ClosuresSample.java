@@ -1,4 +1,4 @@
-package org.lambdas.common.second;
+package com.abc.lambdas.common.second;
 
 /**
  * Created by svshinde83 on 23/01/2017.

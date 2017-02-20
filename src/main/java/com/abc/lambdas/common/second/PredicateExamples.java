@@ -1,6 +1,6 @@
-package org.lambdas.common.second;
+package com.abc.lambdas.common.second;
 
-import org.lambdas.common.Person;
+import com.abc.lambdas.common.Person;
 
 import java.util.Arrays;
 import java.util.Collections;

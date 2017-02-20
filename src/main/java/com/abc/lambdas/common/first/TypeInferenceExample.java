@@ -1,4 +1,4 @@
-package org.lambdas.common.first;
+package com.abc.lambdas.common.first;
 
 /**
  * Created by svshinde83 on 23/01/2017.
